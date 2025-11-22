@@ -23,8 +23,6 @@ to **protect digital ecosystems**, **safeguard data integrity**, and **build a s
 
 I believe in ethical hacking not as a skill, but as a **responsibility** — to understand how systems break, so we can make them unbreakable.  
 
-<img width="400" height="301" alt="mylife" src="https://github.com/user-attachments/assets/30f6b79f-59da-4c15-955b-d920309b0a5b" />
-
 
 
  <h2 id="present_status"> Present Status </h3>  
@@ -87,3 +85,5 @@ I believe in ethical hacking not as a skill, but as a **responsibility** — to 
 [![Firewalls](https://img.shields.io/badge/Firewalls-Policy-FF3B30)](#)
 [![Routing%20&%20Switching](https://img.shields.io/badge/Routing_%26_Switching-Network-0A84FF)](#)
 
+
+<img width="400" height="301" alt="mylife" src="https://github.com/user-attachments/assets/30f6b79f-59da-4c15-955b-d920309b0a5b" />
