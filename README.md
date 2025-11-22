@@ -23,6 +23,9 @@ to **protect digital ecosystems**, **safeguard data integrity**, and **build a s
 
 I believe in ethical hacking not as a skill, but as a **responsibility** — to understand how systems break, so we can make them unbreakable.  
 
+<img width="1000" height="752" alt="mylife" src="https://github.com/user-attachments/assets/30f6b79f-59da-4c15-955b-d920309b0a5b" />
+
+
 
  <h2 id="present_status"> Present Status </h3>  
 
